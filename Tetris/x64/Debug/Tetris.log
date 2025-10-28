@@ -1,12 +1,2 @@
-﻿  board.cpp
-  gameLoop.cpp
-  gameUI.cpp
-  general.cpp
-  main.cpp
-C:\Users\User\source\repos\Tetris\Tetris\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  player.cpp
-  point.cpp
-  tetromino.cpp
-  Generating Code...
-C:\Users\User\source\repos\Tetris\Tetris\board.cpp(66,1): warning C4715: 'Board::getDifficulty': not all control paths return a value
+﻿  LINK : C:\Users\User\source\repos\Tetris\x64\Debug\Tetris.exe not found or not built by the last incremental link; performing full link
   Tetris.vcxproj -> C:\Users\User\source\repos\Tetris\x64\Debug\Tetris.exe
