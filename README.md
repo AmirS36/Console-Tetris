@@ -14,12 +14,12 @@ The game supports **two simultaneous human players**, each with their own board 
 
 ## 🧩 Game Features
 
-Two-player gameplay on separate boards  
-Classic Tetris rules and all seven tetromino shapes  
-Rotations, drops, pausing, and win detection  
-Smooth Menu navigation (Start, Continue, Instructions, Exit)  
-Clear screen redraw and frame pacing using `Sleep()`  
-Modular design with reusable classes for shapes and boards  
+- Two-player gameplay on separate boards  
+- Classic Tetris rules and all seven tetromino shapes  
+- Rotations, drops, pausing, and win detection  
+- Smooth Menu navigation (Start, Continue, Instructions, Exit)  
+- Clear screen redraw and frame pacing using `Sleep()`  
+- Modular design with reusable classes for shapes and boards  
 
 ---
 
