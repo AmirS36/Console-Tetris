@@ -26,13 +26,13 @@ Modular design with reusable classes for shapes and boards
 ## 📸 Screenshots
 
 ### 🏁 Main Menu
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](screenshots/main_menu.jpg)
 
 ### 🧾 Instructions Screen
-![Instructions](screenshots/instructions.png)
+![Instructions](screenshots/instructions.jpg)
 
 ### 🎮 Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/gameplay.jpg)
 
 ---
 
